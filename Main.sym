@@ -1,0 +1,23 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BOS                     4070
+//	ISR                     4069
+//	KBIEN                   4066
+//	KBIVE                   4068
+//	KBSR                    4067
+//	bA                      406B
+//	bC                      406D
+//	bG                      406E
+//	bU                      406C
+//	data                    406A
+//	exit                    4065
+//	loopA2q                 4055
+//	loopAGAq                4045
+//	loopAGq                 4035
+//	loopAs                  4005
+//	loopGs                  401F
+//	loopUq                  402B
+//	loopUs                  400F
+//	pipe                    406F
+//	saver4pop               4071
+//	startseq                4029
